@@ -60,7 +60,7 @@ export default function Extra() {
 
         <div className="flexCenter extra-right">
           <div className="image-container">
-            <img src="Main.jpeg" alt="Main Image" />
+            <img src="Main.jpeg" alt="Main" />
           </div>
         </div>
       </div>
